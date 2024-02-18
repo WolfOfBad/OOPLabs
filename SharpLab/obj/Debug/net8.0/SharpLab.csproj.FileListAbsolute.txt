@@ -1,0 +1,14 @@
+D:\Progs\RiderSolution\SharpLab\bin\Debug\net8.0\SharpLab.exe
+D:\Progs\RiderSolution\SharpLab\bin\Debug\net8.0\SharpLab.deps.json
+D:\Progs\RiderSolution\SharpLab\bin\Debug\net8.0\SharpLab.runtimeconfig.json
+D:\Progs\RiderSolution\SharpLab\bin\Debug\net8.0\SharpLab.dll
+D:\Progs\RiderSolution\SharpLab\bin\Debug\net8.0\SharpLab.pdb
+D:\Progs\RiderSolution\SharpLab\obj\Debug\net8.0\SharpLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progs\RiderSolution\SharpLab\obj\Debug\net8.0\SharpLab.AssemblyInfoInputs.cache
+D:\Progs\RiderSolution\SharpLab\obj\Debug\net8.0\SharpLab.AssemblyInfo.cs
+D:\Progs\RiderSolution\SharpLab\obj\Debug\net8.0\SharpLab.csproj.CoreCompileInputs.cache
+D:\Progs\RiderSolution\SharpLab\obj\Debug\net8.0\SharpLab.dll
+D:\Progs\RiderSolution\SharpLab\obj\Debug\net8.0\refint\SharpLab.dll
+D:\Progs\RiderSolution\SharpLab\obj\Debug\net8.0\SharpLab.pdb
+D:\Progs\RiderSolution\SharpLab\obj\Debug\net8.0\SharpLab.genruntimeconfig.cache
+D:\Progs\RiderSolution\SharpLab\obj\Debug\net8.0\ref\SharpLab.dll

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpLab", "SharpLab\SharpLab.csproj", "{7B204512-2555-46AD-B841-20476E708984}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabTest", "LabTest\LabTest.csproj", "{3C121B12-E20C-4441-B412-ADDA5D317E0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B204512-2555-46AD-B841-20476E708984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B204512-2555-46AD-B841-20476E708984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B204512-2555-46AD-B841-20476E708984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B204512-2555-46AD-B841-20476E708984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C121B12-E20C-4441-B412-ADDA5D317E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C121B12-E20C-4441-B412-ADDA5D317E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C121B12-E20C-4441-B412-ADDA5D317E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C121B12-E20C-4441-B412-ADDA5D317E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
